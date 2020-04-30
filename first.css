@@ -1,0 +1,71 @@
+body {
+    overflow: hidden;
+}
+
+.postcard {
+    width: 600px;
+    height: 323px;
+    margin: 156px 525px 156px 525px;
+    border: solid;
+}
+
+
+.head {
+    padding: 0px;
+    overflow: hidden;
+}
+
+.head img{
+    max-height: 90px;
+    float: right;
+    margin-right: 29px;
+    margin-top: 18px;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: left;
+    margin-left: 17px;
+    height: 62px;
+    width: 203px;
+    vertical-align: initial;
+    margin-top: auto;
+    font-family: 'Roboto';
+
+}
+
+.parrafo {
+    float: left;
+    width: 49%;
+    padding: 10px;
+    margin-left: 10px;
+    font-family: 'Roboto';
+}
+
+.rellenar {
+    text-align: right;
+    float: right;
+    width: 46%;
+}
+
+.rellenar input{
+    font-family: 'Roboto';
+    display: block;
+    font-size: 21px;
+    margin-top: 12px;
+}
+
+input {
+    font-size: 16px;
+}
+
+.footer{
+    width: 600px;
+    text-align: center;
+}
+
+.footer input{
+
+    border: none;
+    font-family: 'Roboto';
+}
